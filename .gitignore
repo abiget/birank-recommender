@@ -2,4 +2,5 @@
 ml-latest-small.zip
 data_mining_P1.ipynb
 data_mining
-data_mining/projects/data/ml-latest-small/ml-large
+data/ml-latest-small/ml-large/movies.csv
+data/ml-latest-small/ml-large/ratings.csv
