@@ -2,3 +2,6 @@
 papers/
 ml-latest-small.zip
 data_mining/data_mining_P1.ipynb
+data/ml-latest-small/ratings.csv
+data/ml-latest-small/movies.csv
+
